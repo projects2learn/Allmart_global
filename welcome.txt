@@ -1,2 +1,5 @@
 Welcome to Allmart_global limited.
-ACHAT-VENDI anything.
+ACHAT-VENDI
+--> Sale 20% off on Batteries
+--> Sale 30% off on Perfumes.
+--> Sale 10% off on Electronics.
